@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "username": "aryamol",
+      "address": "KOTTAYAM",
+      "phoneno": "09539196717",
+      "country": "India",
+      "state": "Kerala",
+      "email": "aryamolms02@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "username": "manu",
+      "address": "kollam",
+      "phoneno": "09539196717",
+      "country": "India",
+      "state": "Kerala",
+      "email": "manu@gmail.com",
+      "password": "manu123",
+      "id": 2
+    }
+  ]
+}
